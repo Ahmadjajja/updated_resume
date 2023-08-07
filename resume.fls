@@ -1,6 +1,6 @@
-PWD d:\Programming\CVs\New Resume
+PWD d:\Programming\updated_resume
 INPUT C:\Users\Latitude E5450\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT d:\Programming\CVs\New Resume\resume.tex
+INPUT d:\Programming\updated_resume\resume.tex
 OUTPUT resume.log
 INPUT C:\Users\Latitude E5450\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\Latitude E5450\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
