@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.8.7)  29 SEP 2023 16:02
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.8.7)  30 SEP 2023 14:39
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -560,18 +560,18 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 [1
 
 {C:/Users/Latitude E5450/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/Latitude E5450/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/sourcesanspro/a_4jropk.enc}{C:/Users/Latitude E5450/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/sourcesanspro/a_emkxm5.enc}]
-LaTeX Font Info:    Trying to load font information for TS1+SourceSansPro-TLF on input line 280.
+LaTeX Font Info:    Trying to load font information for TS1+SourceSansPro-TLF on input line 282.
  (C:\Users\Latitude E5450\AppData\Local\Programs\MiKTeX\tex/latex/sourcesanspro\ts1sourcesanspro-tlf.fd
 File: TS1SourceSansPro-TLF.fd 2020/01/19 (autoinst) Font definitions for TS1/SourceSansPro-TLF.
 )
 LaTeX Font Info:    Font shape `TS1/SourceSansPro-TLF/m/n' aliased to
-(Font)              `TS1/SourceSansPro-TLF/regular/n' on input line 280.
+(Font)              `TS1/SourceSansPro-TLF/regular/n' on input line 282.
 LaTeX Font Info:    Font shape `TS1/SourceSansPro-TLF/regular/n' will be
-(Font)              scaled to size 10.95pt on input line 280.
+(Font)              scaled to size 10.95pt on input line 282.
 LaTeX Font Info:    Font shape `TS1/SourceSansPro-TLF/m/n' aliased to
-(Font)              `TS1/SourceSansPro-TLF/regular/n' on input line 281.
+(Font)              `TS1/SourceSansPro-TLF/regular/n' on input line 283.
 LaTeX Font Info:    Font shape `TS1/SourceSansPro-TLF/regular/n' will be
-(Font)              scaled to size 10.0pt on input line 281.
+(Font)              scaled to size 10.0pt on input line 283.
 
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
@@ -580,18 +580,18 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 
 [2{C:/Users/Latitude E5450/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/sourcesanspro/a_5ponh6.enc}] (resume.aux)
 Package rerunfilecheck Info: File `resume.out' has not changed.
-(rerunfilecheck)             Checksum: 270D4EA070AD67C51113512C92A283D1;725.
+(rerunfilecheck)             Checksum: 7DCD035F82197C34AD6C14B0FDF37E71;725.
  ) 
 Here is how much of TeX's memory you used:
  13324 strings out of 476331
  245000 string characters out of 5783482
- 1887660 words of memory out of 5000000
+ 1885660 words of memory out of 5000000
  33533 multiletter control sequences out of 15000+600000
  628412 words of font info for 72 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,12n,76p,413b,896s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,11n,76p,413b,896s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Latitude E5450/AppData/Local/Programs/MiKTeX/fonts/type1/adobe/sourcesanspro/SourceSansPro-Bold.pfb><C:/Users/Latitude E5450/AppData/Local/Programs/MiKTeX/fonts/type1/adobe/sourcesanspro/SourceSansPro-It.pfb><C:/Users/Latitude E5450/AppData/Local/Programs/MiKTeX/fonts/type1/adobe/sourcesanspro/SourceSansPro-Regular.pfb><C:/Users/Latitude E5450/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Latitude E5450/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb>
-Output written on resume.pdf (2 pages, 210337 bytes).
+Output written on resume.pdf (2 pages, 210461 bytes).
 PDF statistics:
  92 PDF objects out of 1000 (max. 8388607)
  9 named destinations out of 1000 (max. 500000)
