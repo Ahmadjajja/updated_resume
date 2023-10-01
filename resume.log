@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.8.7)  30 SEP 2023 14:39
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.8.7)  1 OCT 2023 16:29
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -529,28 +529,44 @@ LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/sc' aliased to
 (Font)              `T1/SourceSansPro-TLF/regular/sc' on input line 143.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/sc' will be
 (Font)              scaled to size 12.0pt on input line 143.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 148.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 148.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 148.
-LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/it' aliased to
-(Font)              `T1/SourceSansPro-TLF/regular/it' on input line 148.
-LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/it' will be
-(Font)              scaled to size 10.95pt on input line 148.
-LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/it' aliased to
-(Font)              `T1/SourceSansPro-TLF/regular/it' on input line 148.
-LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/it' will be
-(Font)              scaled to size 10.0pt on input line 148.
-LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/n' aliased to
-(Font)              `T1/SourceSansPro-TLF/regular/n' on input line 150.
-LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/n' will be
-(Font)              scaled to size 6.0pt on input line 150.
+LaTeX Font Info:    Trying to load font information for TS1+SourceSansPro-TLF on input line 146.
+ (C:\Users\Latitude E5450\AppData\Local\Programs\MiKTeX\tex/latex/sourcesanspro\ts1sourcesanspro-tlf.fd
+File: TS1SourceSansPro-TLF.fd 2020/01/19 (autoinst) Font definitions for TS1/SourceSansPro-TLF.
+)
+LaTeX Font Info:    Font shape `TS1/SourceSansPro-TLF/m/n' aliased to
+(Font)              `TS1/SourceSansPro-TLF/regular/n' on input line 146.
+LaTeX Font Info:    Font shape `TS1/SourceSansPro-TLF/regular/n' will be
+(Font)              scaled to size 10.95pt on input line 146.
+LaTeX Font Info:    Font shape `TS1/SourceSansPro-TLF/m/n' aliased to
+(Font)              `TS1/SourceSansPro-TLF/regular/n' on input line 147.
+LaTeX Font Info:    Font shape `TS1/SourceSansPro-TLF/regular/n' will be
+(Font)              scaled to size 10.0pt on input line 147.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/b/n' aliased to
-(Font)              `T1/SourceSansPro-TLF/bold/n' on input line 159.
+(Font)              `T1/SourceSansPro-TLF/bold/n' on input line 162.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/bold/n' will be
-(Font)              scaled to size 10.0pt on input line 159.
+(Font)              scaled to size 10.0pt on input line 162.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 177.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 177.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 177.
+LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/it' aliased to
+(Font)              `T1/SourceSansPro-TLF/regular/it' on input line 177.
+LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/it' will be
+(Font)              scaled to size 10.95pt on input line 177.
+LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/it' aliased to
+(Font)              `T1/SourceSansPro-TLF/regular/it' on input line 177.
+LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/it' will be
+(Font)              scaled to size 10.0pt on input line 177.
+LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/n' aliased to
+(Font)              `T1/SourceSansPro-TLF/regular/n' on input line 179.
+LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/n' will be
+(Font)              scaled to size 6.0pt on input line 179.
+LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/n' aliased to
+(Font)              `T1/SourceSansPro-TLF/regular/n' on input line 239.
+LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/n' will be
+(Font)              scaled to size 12.0pt on input line 239.
 
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
@@ -559,41 +575,28 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 
 [1
 
-{C:/Users/Latitude E5450/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/Latitude E5450/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/sourcesanspro/a_4jropk.enc}{C:/Users/Latitude E5450/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/sourcesanspro/a_emkxm5.enc}]
-LaTeX Font Info:    Trying to load font information for TS1+SourceSansPro-TLF on input line 282.
- (C:\Users\Latitude E5450\AppData\Local\Programs\MiKTeX\tex/latex/sourcesanspro\ts1sourcesanspro-tlf.fd
-File: TS1SourceSansPro-TLF.fd 2020/01/19 (autoinst) Font definitions for TS1/SourceSansPro-TLF.
-)
-LaTeX Font Info:    Font shape `TS1/SourceSansPro-TLF/m/n' aliased to
-(Font)              `TS1/SourceSansPro-TLF/regular/n' on input line 282.
-LaTeX Font Info:    Font shape `TS1/SourceSansPro-TLF/regular/n' will be
-(Font)              scaled to size 10.95pt on input line 282.
-LaTeX Font Info:    Font shape `TS1/SourceSansPro-TLF/m/n' aliased to
-(Font)              `TS1/SourceSansPro-TLF/regular/n' on input line 283.
-LaTeX Font Info:    Font shape `TS1/SourceSansPro-TLF/regular/n' will be
-(Font)              scaled to size 10.0pt on input line 283.
-
+{C:/Users/Latitude E5450/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/Latitude E5450/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/sourcesanspro/a_4jropk.enc}{C:/Users/Latitude E5450/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/sourcesanspro/a_emkxm5.enc}{C:/Users/Latitude E5450/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/sourcesanspro/a_5ponh6.enc}]
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
 (fancyhdr)                Make it at least 4.08003pt, for example:
 (fancyhdr)                \setlength{\footskip}{4.08003pt}.
 
-[2{C:/Users/Latitude E5450/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/sourcesanspro/a_5ponh6.enc}] (resume.aux)
+[2] (resume.aux)
 Package rerunfilecheck Info: File `resume.out' has not changed.
-(rerunfilecheck)             Checksum: 7DCD035F82197C34AD6C14B0FDF37E71;725.
+(rerunfilecheck)             Checksum: 0906529E68350F55BD227E7DBC08E179;725.
  ) 
 Here is how much of TeX's memory you used:
- 13324 strings out of 476331
- 245000 string characters out of 5783482
- 1885660 words of memory out of 5000000
- 33533 multiletter control sequences out of 15000+600000
- 628412 words of font info for 72 fonts, out of 8000000 for 9000
+ 13326 strings out of 476331
+ 245060 string characters out of 5783482
+ 1882660 words of memory out of 5000000
+ 33535 multiletter control sequences out of 15000+600000
+ 637782 words of font info for 73 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,11n,76p,413b,896s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,11n,76p,470b,896s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Latitude E5450/AppData/Local/Programs/MiKTeX/fonts/type1/adobe/sourcesanspro/SourceSansPro-Bold.pfb><C:/Users/Latitude E5450/AppData/Local/Programs/MiKTeX/fonts/type1/adobe/sourcesanspro/SourceSansPro-It.pfb><C:/Users/Latitude E5450/AppData/Local/Programs/MiKTeX/fonts/type1/adobe/sourcesanspro/SourceSansPro-Regular.pfb><C:/Users/Latitude E5450/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Latitude E5450/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb>
-Output written on resume.pdf (2 pages, 210461 bytes).
+Output written on resume.pdf (2 pages, 213267 bytes).
 PDF statistics:
- 92 PDF objects out of 1000 (max. 8388607)
+ 99 PDF objects out of 1000 (max. 8388607)
  9 named destinations out of 1000 (max. 500000)
  49 words of extra memory for PDF output out of 10000 (max. 10000000)
 
