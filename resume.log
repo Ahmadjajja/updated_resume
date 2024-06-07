@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.2.12)  8 JUN 2024 02:13
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.2.12)  8 JUN 2024 02:28
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -598,17 +598,17 @@ Package rerunfilecheck Info: File `resume.out' has not changed.
 (rerunfilecheck)             Checksum: 9195C032CFAB9ACC9E7EE4A5C67C4519;871.
  ) 
 Here is how much of TeX's memory you used:
- 13562 strings out of 474541
- 244359 string characters out of 5741557
+ 13561 strings out of 474541
+ 244322 string characters out of 5741557
  1960978 words of memory out of 5000000
  35566 multiletter control sequences out of 15000+600000
- 692164 words of font info for 80 fonts, out of 8000000 for 9000
+ 691771 words of font info for 79 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,11n,79p,670b,897s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Ahmad Jajja/AppData/Local/Programs/MiKTeX/fonts/type1/adobe/sourcesanspro/SourceSansPro-Bold.pfb><C:/Users/Ahmad Jajja/AppData/Local/Programs/MiKTeX/fonts/type1/adobe/sourcesanspro/SourceSansPro-It.pfb><C:/Users/Ahmad Jajja/AppData/Local/Programs/MiKTeX/fonts/type1/adobe/sourcesanspro/SourceSansPro-Regular.pfb><C:/Users/Ahmad Jajja/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Ahmad Jajja/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb>
-Output written on resume.pdf (2 pages, 226584 bytes).
+Output written on resume.pdf (2 pages, 223814 bytes).
 PDF statistics:
- 136 PDF objects out of 1000 (max. 8388607)
+ 133 PDF objects out of 1000 (max. 8388607)
  10 named destinations out of 1000 (max. 500000)
  57 words of extra memory for PDF output out of 10000 (max. 10000000)
 
