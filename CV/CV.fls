@@ -1,6 +1,6 @@
-PWD d:\Programming\updated_resume
+PWD d:\Programming\updated_resume\CV
 INPUT C:\Users\Ahmad Jajja\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT d:\Programming\updated_resume\CV.tex
+INPUT d:\Programming\updated_resume\CV\CV.tex
 OUTPUT CV.log
 INPUT C:\Users\Ahmad Jajja\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\Ahmad Jajja\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
