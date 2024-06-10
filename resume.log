@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.2.12)  8 JUN 2024 21:00
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.2.12)  10 JUN 2024 14:08
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -557,32 +557,25 @@ LaTeX Font Info:    Font shape `TS1/SourceSansPro-TLF/m/n' aliased to
 (Font)              `TS1/SourceSansPro-TLF/regular/n' on input line 118.
 LaTeX Font Info:    Font shape `TS1/SourceSansPro-TLF/regular/n' will be
 (Font)              scaled to size 10.0pt on input line 118.
-
-
-Package hyperref Warning: Suppressing link with empty target on input line 125.
-
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 151.
+(Font)              <10.95> on input line 152.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 151.
+(Font)              <8> on input line 152.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 151.
+(Font)              <6> on input line 152.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/it' aliased to
-(Font)              `T1/SourceSansPro-TLF/regular/it' on input line 151.
+(Font)              `T1/SourceSansPro-TLF/regular/it' on input line 152.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/it' will be
-(Font)              scaled to size 10.95pt on input line 151.
+(Font)              scaled to size 10.95pt on input line 152.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/n' aliased to
-(Font)              `T1/SourceSansPro-TLF/regular/n' on input line 154.
+(Font)              `T1/SourceSansPro-TLF/regular/n' on input line 155.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/n' will be
-(Font)              scaled to size 6.0pt on input line 154.
+(Font)              scaled to size 6.0pt on input line 155.
 LaTeX Font Info:    Font shape `TS1/SourceSansPro-TLF/m/it' aliased to
-(Font)              `TS1/SourceSansPro-TLF/regular/it' on input line 167.
+(Font)              `TS1/SourceSansPro-TLF/regular/it' on input line 185.
 LaTeX Font Info:    Font shape `TS1/SourceSansPro-TLF/regular/it' will be
-(Font)              scaled to size 10.0pt on input line 167.
-LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/n' aliased to
-(Font)              `T1/SourceSansPro-TLF/regular/n' on input line 187.
-LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/n' will be
-(Font)              scaled to size 12.0pt on input line 187.
+(Font)              scaled to size 10.0pt on input line 185.
+
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
 (fancyhdr)                Make it at least 4.08003pt, for example:
@@ -591,16 +584,21 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 [1
 
 {C:/Users/Ahmad Jajja/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/Ahmad Jajja/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/sourcesanspro/a_4jropk.enc}{C:/Users/Ahmad Jajja/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/sourcesanspro/a_emkxm5.enc}{C:/Users/Ahmad Jajja/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/sourcesanspro/a_5ponh6.enc}]
-Overfull \hbox (29.92935pt too wide) in alignment at lines 253--253
-[] [] 
- []
-
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
 (fancyhdr)                Make it at least 4.08003pt, for example:
 (fancyhdr)                \setlength{\footskip}{4.08003pt}.
 
 [2]
+Overfull \hbox (29.92935pt too wide) in alignment at lines 272--272
+[] [] 
+ []
+
+
+Overfull \hbox (25.02948pt too wide) in alignment at lines 295--295
+[] [] 
+ []
+
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
 (fancyhdr)                Make it at least 4.08003pt, for example:
@@ -612,20 +610,20 @@ LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
  ***********
 Package rerunfilecheck Info: File `resume.out' has not changed.
-(rerunfilecheck)             Checksum: C4F1B95CD5E455E6F96960BBB7EB909F;1038.
+(rerunfilecheck)             Checksum: 1574C543CCE938E781D6546553EA6843;1131.
  ) 
 Here is how much of TeX's memory you used:
- 13571 strings out of 474541
- 244547 string characters out of 5741557
- 1960978 words of memory out of 5000000
- 35572 multiletter control sequences out of 15000+600000
- 701849 words of font info for 82 fonts, out of 8000000 for 9000
+ 13572 strings out of 474541
+ 244536 string characters out of 5741557
+ 1957978 words of memory out of 5000000
+ 35571 multiletter control sequences out of 15000+600000
+ 692917 words of font info for 82 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,11n,79p,670b,897s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,11n,79p,674b,897s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Ahmad Jajja/AppData/Local/Programs/MiKTeX/fonts/type1/adobe/sourcesanspro/SourceSansPro-Bold.pfb><C:/Users/Ahmad Jajja/AppData/Local/Programs/MiKTeX/fonts/type1/adobe/sourcesanspro/SourceSansPro-It.pfb><C:/Users/Ahmad Jajja/AppData/Local/Programs/MiKTeX/fonts/type1/adobe/sourcesanspro/SourceSansPro-Regular.pfb><C:/Users/Ahmad Jajja/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Ahmad Jajja/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb>
-Output written on resume.pdf (3 pages, 230916 bytes).
+Output written on resume.pdf (3 pages, 234414 bytes).
 PDF statistics:
- 149 PDF objects out of 1000 (max. 8388607)
- 12 named destinations out of 1000 (max. 500000)
- 65 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 159 PDF objects out of 1000 (max. 8388607)
+ 13 named destinations out of 1000 (max. 500000)
+ 73 words of extra memory for PDF output out of 10000 (max. 10000000)
 
