@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1718010497.70801 "d:/Programming/updated_resume/resume.tex" "resume.pdf" "resume" 1718010499.84869 0
+["pdflatex"] 1718011983.17597 "d:/Programming/updated_resume/CV.tex" "CV.pdf" "CV" 1718011984.85883 0
   "C:/Users/Ahmad Jajja/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1717789690 1036598 46b5c4c754873f5df530c593bd73fdc1 ""
   "C:/Users/Ahmad Jajja/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1707734420 24213696 911a0da3e2659a417853b454bb0bb593 ""
   "C:/Users/Ahmad Jajja/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/sourcesanspro/a_4jropk.enc" 1587920543 3267 177411e539fcc6ace86309ff03b22da6 ""
@@ -124,13 +124,13 @@
   "C:/Users/Ahmad Jajja/AppData/Local/Programs/MiKTeX/tex/latex/tools/verbatim.sty" 1700599895 7500 db31c3d04f8bc9010e47a5efbbace9ff ""
   "C:/Users/Ahmad Jajja/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/Ahmad Jajja/AppData/Local/Programs/MiKTeX/tex/latex/xkeyval/xkeyval.sty" 1656236919 4937 4ce600ce9bd4ec84d0250eb6892fcf4f ""
-  "d:/Programming/updated_resume/resume.tex" 1718010496 22791 6382959ca8027a0512023b3210ff63b2 ""
-  "resume.aux" 1718010499 1358 887a9bec64bfb29deb027d2606eba14d "pdflatex"
-  "resume.out" 1718010499 1131 1574c543cce938e781d6546553ea6843 "pdflatex"
-  "resume.tex" 1718010496 22791 6382959ca8027a0512023b3210ff63b2 ""
+  "CV.aux" 1718011984 1358 887a9bec64bfb29deb027d2606eba14d "pdflatex"
+  "CV.out" 1718011984 1131 1574c543cce938e781d6546553ea6843 "pdflatex"
+  "CV.tex" 1718010496 22791 6382959ca8027a0512023b3210ff63b2 ""
+  "d:/Programming/updated_resume/CV.tex" 1718010496 22791 6382959ca8027a0512023b3210ff63b2 ""
   (generated)
-  "resume.aux"
-  "resume.log"
-  "resume.out"
-  "resume.pdf"
+  "CV.aux"
+  "CV.log"
+  "CV.out"
+  "CV.pdf"
   (rewritten before read)
