@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.2.12)  10 JUN 2024 21:18
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.2.12)  10 JUN 2024 22:02
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -610,7 +610,7 @@ LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
  ***********
 Package rerunfilecheck Info: File `CV.out' has not changed.
-(rerunfilecheck)             Checksum: 1574C543CCE938E781D6546553EA6843;1131.
+(rerunfilecheck)             Checksum: 8161EF8AA6CB31A1AFAFD22124505786;1131.
  ) 
 Here is how much of TeX's memory you used:
  13572 strings out of 474541
@@ -621,7 +621,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  75i,11n,79p,673b,897s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Ahmad Jajja/AppData/Local/Programs/MiKTeX/fonts/type1/adobe/sourcesanspro/SourceSansPro-Bold.pfb><C:/Users/Ahmad Jajja/AppData/Local/Programs/MiKTeX/fonts/type1/adobe/sourcesanspro/SourceSansPro-It.pfb><C:/Users/Ahmad Jajja/AppData/Local/Programs/MiKTeX/fonts/type1/adobe/sourcesanspro/SourceSansPro-Regular.pfb><C:/Users/Ahmad Jajja/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Ahmad Jajja/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb>
-Output written on CV.pdf (3 pages, 235832 bytes).
+Output written on CV.pdf (3 pages, 235825 bytes).
 PDF statistics:
  161 PDF objects out of 1000 (max. 8388607)
  13 named destinations out of 1000 (max. 500000)
